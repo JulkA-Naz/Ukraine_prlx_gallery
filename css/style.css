@@ -861,9 +861,9 @@ html.light .gallery__text {
     -webkit-box-direction: normal !important;
         -ms-flex-direction: row !important;
             flex-direction: row !important;
-    -webkit-box-pack: space-evenly;
-        -ms-flex-pack: space-evenly;
-            justify-content: space-evenly;
+    -webkit-box-pack: space-evenly!important;
+        -ms-flex-pack: space-evenly!important;
+            justify-content: space-evenly!important;
   }
 }
 
